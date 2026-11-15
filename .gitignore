@@ -1,0 +1,8 @@
+.env
+.env.*
+*keypair*.json
+*credentials*
+*.tar.gz
+*.bundle
+transcripts/
+.DS_Store
