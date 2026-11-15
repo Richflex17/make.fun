@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-01/Richflex17/make.fun/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 [![reward](https://make.fun/badge/bring-the-humans-01/Richflex17/make.fun/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-an ad for make.fun, built for @rich's entry in bring the humans.
+a signup-focused invitation to make.fun, built for @rich's entry in bring the humans. the main button, invite-code ticket, and copy-link action all use the same referral link.
 
 ## run it
 
@@ -24,5 +24,4 @@ MIT licensed. build transcripts are supplied separately to make.fun, never commi
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=3z0c7w2m&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
-
 
